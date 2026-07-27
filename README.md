@@ -124,7 +124,5 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 ## 📄 License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-
 ## 🏆 Microsoft Agent League Certificate
-
-![Microsoft Agent League](agent_league.jpeg)
+![Microsoft Agent League](agent%20league.jpeg)
